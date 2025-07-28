@@ -13,4 +13,5 @@ GUILD_ID
 LOG_FILE_NAME
 
 `npm install`
+<br>
 `node .`
